@@ -1,0 +1,30 @@
+{
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.defaultInterpreterPath": "/home/dylan/Documents/UCASAL/Analisis-Numerico/Práctica/Metodos-Numericos/venv",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Codely Dark",
+    "window.titleBarStyle": "custom",
+    "window.restoreWindows": "none",
+    "editor.fontFamily": "'Cascadia Code PL', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "telemetry.telemetryLevel": "off",
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": "single",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "files.associations": {
+        "*.cs": "csharp"
+    },
+    "editor.wordWrap": "on",
+    "workbench.activityBar.location": "hidden"
+}
