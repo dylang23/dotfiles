@@ -1,0 +1,26 @@
+## Mis alias
+
+## Alias para el sudo
+alias sudo="sudo -E "
+
+## Alias para el comando ls
+alias ls="exa -F --group-directories-first"
+alias ll="ls -l"
+alias la="ls -l -a"
+
+## Alias para el comando cd
+alias cdu="cd ~/Documents/UCASAL"
+alias cduanum="cdu; cd Analisis-Numerico"
+alias cdcursos="cd ~/Documents/Cursos"
+
+## Alias para el comando mv
+alias mv="mv -v"
+
+## Alias para el coamdno rm
+alias rm="rm -v"
+alias rmf="rm -rf"
+
+## Para comandos instalados en snap
+alias tldr="snap run tldr-luk3yx"
+
+
