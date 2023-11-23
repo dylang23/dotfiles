@@ -1,0 +1,17 @@
+# Display time
+#SPACESHIP_TIME_SHOW=true
+
+# Display username always
+#SPACESHIP_USER_SHOW=always
+
+SPACESHIP_PROMPT_ADD_NEWLINE=false
+SPACESHIP_PROMPT_ASYNC=true
+
+
+# Orders
+SPACESHIP_PROMPT_ORDER=(dir git exec_time line_sep venv jobs exit_code char)
+
+
+# Venv options
+SPACESHIP_VENV_PREFIX="venv "
+
